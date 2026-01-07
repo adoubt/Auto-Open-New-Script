@@ -11,3 +11,5 @@ Automatically opens newly created `.gd` scripts in the editor.
 ## Godot version
 - Godot 4.x
 
+## License
+- MIT
