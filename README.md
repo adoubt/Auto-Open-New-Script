@@ -1,4 +1,4 @@
-# Auto Open New Script (Godot 4.X)
+# Auto Open New Script (Addon Godot 4.X)
 
 Automatically opens newly created `.gd` scripts in the editor.
 
